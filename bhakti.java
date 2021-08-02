@@ -4,7 +4,7 @@ class Operators1
     {
         int i=0;
         System.out.println(i++);
-        System.out.println("joshita");
+        System.out.println("joshita       ");
         System.out.println(++i);
     }
 }
